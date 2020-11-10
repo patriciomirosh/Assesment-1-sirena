@@ -1,5 +1,5 @@
 
-
+/*the table ordes and account was created with the parameter for the assesment, accounts has 4 accounts*/
 
 /*In this part I had to give values for the tables*/
 
